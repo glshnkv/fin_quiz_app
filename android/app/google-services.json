@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336764050922",
+    "project_id": "fin-quiz-app",
+    "storage_bucket": "fin-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336764050922:android:481ac69ec218044030a693",
+        "android_client_info": {
+          "package_name": "com.finalias.utils.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlEGV17Dd6CVKomr3cwlyBk9tBbgmWlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
